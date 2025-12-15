@@ -1,5 +1,1 @@
-streamlit
-pandas
-numpy
-joblib
-fpdf
+SheShield: Breast Health Assessment Tool
