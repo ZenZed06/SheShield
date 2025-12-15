@@ -22,7 +22,7 @@ st.markdown("""
 /* Titles */
 .title {
     text-align: center;
-    font-size: 64px;
+    font-size: 50px;
     font-weight: 800;
     color: #d63384;
     font-family: 'Poppins', 'Segoe UI', sans-serif;
