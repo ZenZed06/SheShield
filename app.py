@@ -9,7 +9,7 @@ model = joblib.load("model.pkl")
 scaler = joblib.load("scaler.pkl")
 feature_names = joblib.load("feature_names.pkl")
 
-st.set_page_config(page_title="SheShield", layout="wide")
+st.set_page_config(page_title="SheShield", layout="centered")
 
 # ---------- Custom CSS ----------
 st.markdown("""
