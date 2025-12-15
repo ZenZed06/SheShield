@@ -1,1 +1,5 @@
-# SheShield
+streamlit
+pandas
+numpy
+joblib
+fpdf
